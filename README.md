@@ -2,5 +2,6 @@
 - 👀 I’m interested in Software Development and Cybersecurity
 - 🌱 I’m currently learning Cybersecurity
 - 📫 You can reach me:
-  - By email: jeff@jwashburn.tech
-  - In my Discord Server: https://discord.gg/svtubsQ2pb
+  - LinkedIn:  https://linkedin.jwashburn.tech/
+  - Email: jeff@jwashburn.tech
+  - Discord: https://discord.jwashburn.tech/
